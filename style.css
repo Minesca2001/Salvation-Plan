@@ -28,13 +28,13 @@ body {
 }
 
 h1 {
-    font-family: 'Merriweather', serif; 
+    font-family: Merriweather, 'serif'; 
     color: #004085; 
     margin-bottom: 20px;
 }
 
 h2 {
-    font-family: 'Merriweather', serif; 
+    font-family: Merriweather, 'serif'; 
     color: #0056b3; 
     margin-top: 25px;
     margin-bottom: 15px;
